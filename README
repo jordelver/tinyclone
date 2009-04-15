@@ -1,0 +1,3 @@
+TinyClone - A simple Sinatra URL shortener (my first Sinatra app)
+
+Base 36 encoding trick stolen from http://github.com/leah/tinytinyurl/
